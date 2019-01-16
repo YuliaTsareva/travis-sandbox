@@ -1,0 +1,23 @@
+{
+  "name": "travis-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "one": "echo \"One\"",
+    "two": "echo \"Two\"",
+    "three": "echo \"Three\"",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliaTsareva/travis-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliaTsareva/travis-sandbox/issues"
+  },
+  "homepage": "https://github.com/YuliaTsareva/travis-sandbox#readme"
+}
